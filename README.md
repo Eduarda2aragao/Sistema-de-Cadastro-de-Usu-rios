@@ -23,6 +23,7 @@ Telefone
 Botões:
 Cadastrar
 Cancelar
+
 📄 Tela de Listagem
 Exibe:
 Nome
@@ -51,6 +52,7 @@ Clone o repositório:
 git clone (link do seu repositório)
 Abra o projeto na sua IDE
 Execute o projeto
+
 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido com foco educacional, visando praticar conceitos de:
