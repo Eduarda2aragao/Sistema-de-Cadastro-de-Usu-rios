@@ -5,12 +5,19 @@
 Este é um aplicativo simples de cadastro de usuários, desenvolvido com o objetivo de armazenar e visualizar informações básicas como nome, endereço e telefone. O sistema possui uma interface intuitiva e funcional, ideal para fins acadêmicos e aprendizado.
 
 🚀 Funcionalidades
+
 ✅ Cadastro de usuários
+
 📋 Listagem de usuários cadastrados
+
 🔄 Navegação entre registros (anterior/próximo)
+
 ❌ Opção de cancelar cadastro
+
 🔐 Interface simples e fácil de usar
+
 🖥️ Telas do Sistema
+
 🏠 Tela Inicial
 
 Apresenta o sistema
@@ -44,10 +51,15 @@ Interface: (ex: XML, HTML/CSS…)
 IDE: (ex: Android Studio, VS Code…)
 
 📂 Estrutura do Projeto
+
 /projeto-cadastro
+
 │── /src
+
 │── /assets
+
 │── index / main
+
 │── README.md
 
 ▶️ Como Executar
@@ -66,8 +78,13 @@ Navegação entre telas
 Armazenamento de informações
 
 📌 Melhorias Futuras
+
 💾 Integração com banco de dados
+
 🔍 Busca de usuários
+
 ✏️ Edição de cadastro
+
 🗑️ Exclusão de usuários
+
 🎨 Melhorias no design
