@@ -1,4 +1,5 @@
 📱 Sistema de Cadastro de Usuários
+
 📌 Descrição
 
 Este é um aplicativo simples de cadastro de usuários, desenvolvido com o objetivo de armazenar e visualizar informações básicas como nome, endereço e telefone. O sistema possui uma interface intuitiva e funcional, ideal para fins acadêmicos e aprendizado.
@@ -11,10 +12,12 @@ Este é um aplicativo simples de cadastro de usuários, desenvolvido com o objet
 🔐 Interface simples e fácil de usar
 🖥️ Telas do Sistema
 🏠 Tela Inicial
+
 Apresenta o sistema
 Opções:
 Cadastrar Usuário
 Listar usuários cadastrados
+
 📝 Tela de Cadastro
 Campos disponíveis:
 Nome
